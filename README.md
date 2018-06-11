@@ -33,3 +33,8 @@ Q: 什么是generator,为什么会出现？
 2018/4/24
 Q：innerHTML和appChild的区别。
 //TODO:
+
+
+2018/6/12
+Q: vue组件中的scope属性是干什么的？如何理解？
+//TODO:
