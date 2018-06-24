@@ -19,7 +19,7 @@ Q: HTML5 drag and drop
 //TODO:
 
 2018/04/11
-Q: vue SSR
+Q: vue SSR是什么？为了解决什么问题出现的？
 //TODO:
 
 2018/4/13
