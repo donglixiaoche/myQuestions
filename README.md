@@ -31,7 +31,7 @@ Q: 什么是generator,为什么会出现？
 //TODO:
 
 2018/4/24
-Q：innerHTML和appChild的区别。
+Q：innerHTML vs appChild
 //TODO:
 
 
@@ -45,4 +45,8 @@ Q: less vs sass vs postcss
 
 2018/6/29
 Q: 什么是gulp?
+//TODO:
+
+2018/7/8
+Q: yarn vs npm
 //TODO:
