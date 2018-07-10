@@ -6,7 +6,7 @@ Q: 在vue文件中想使用嵌套的语法来写css样式，在美团实习的�
 //TODO: vue-cli生成的项目中默认使用了....只需要在vue组件中的样式标签加上lang="postcss"，之前使用想使用嵌套语法没用是因为没加对应的插件...项目使用了postcss-loader，在.postcssrc.js里用加上想用的加上要用的插件就好了。比如postcss-nested插件提供嵌套语法
 
 2018/4/8
-Q: executed context, lexical enviroment,this到底是什么？了解一些，但缺少一次系统的整理
+Q:executed context, lexical enviroment,this in JavaScript
 //TODO:
 A: executed context是规范中定义的一种服务(device)，用来追踪和评估代码的执行
 
@@ -49,4 +49,8 @@ Q: 什么是gulp?
 
 2018/7/8
 Q: yarn vs npm
+//TODO:
+
+2018/7/9
+Q: 自执行函数
 //TODO:
