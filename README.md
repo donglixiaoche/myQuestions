@@ -66,3 +66,7 @@ Q: ||操作返回值
 A: 
 expr1 || expr2
 Returns expr1 if it can be converted to true; otherwise, returns expr2. Thus, when used with Boolean values, || returns true if either operand is true.
+
+2018/7/12
+Q: 使用es6 class关键字继承时，如果要重写constructor，为什么一定要调用super
+//TODO:
