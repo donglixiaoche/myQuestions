@@ -63,4 +63,6 @@ Q: new操作返回值
 A: 构造函数 return语句返回值作为这个new表达式的返回值，没有手动声明return语句的话，new操作中新建的对象将作为返回值
 
 Q: ||操作返回值
-//TODO:
+A: 
+expr1 || expr2
+Returns expr1 if it can be converted to true; otherwise, returns expr2. Thus, when used with Boolean values, || returns true if either operand is true.
