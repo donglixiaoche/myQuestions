@@ -59,37 +59,45 @@ Q: "="操作的返回值
 //TODO:
 
 2018/7/11  
-Q: new操作返回值  
+#####Q: new操作返回值  
 A: 构造函数 return语句返回值作为这个new表达式的返回值，没有手动声明return语句的话，new操作中新建的对象将作为返回值  
 
-Q: ||操作返回值  
+#####Q: ||操作返回值  
 A:   
 expr1 || expr2  
 Returns expr1 if it can be converted to true; otherwise, returns expr2. Thus, when used with Boolean values, || returns true if either operand is true.
 
 2018/7/12  
-Q: 使用es6 class关键字继承时，如果要重写constructor，为什么一定要调用super(super到底是啥)  
+#####Q:使用es6 class关键字继承时，如果要重写constructor，为什么一定要调用super(super到底是啥)  
 //TODO:
 
 
 2018/7/15  
-Q: XSS(cross site script) cross site含义  
+#####Q: XSS(cross site script) cross site含义  
 //TODO:
 
 2018/7/17  
-Q: npx  
+#####Q: npx  
 //TODO::
 
-Q: webpack-dev-server  
+#####Q: webpack-dev-server  
 //TODO:
 
 2018/7/18  
-Q: Web Api
+#####Q: Web Api
 //TODO:
 
-Q: `\u001b[1m\u001b[31mBoston Celtics\u001b[39m\u001b[22m`为毛红色?  
+#####Q:`\u001b[1m\u001b[31mBoston Celtics\u001b[39m\u001b[22m`为毛红色?  
 //TODO:
 
 
-Q: websocket
+#####Q: websocket
 //TODO:
+
+2018/08/19
+#####Q: js中[]的具体用法，比如以下这种是什么操作？
+
+```javascript
+//conn是connection的回调传过来的参数
+this.sockWrite([conn], 'error', 'Invalid Host header');
+```
