@@ -105,3 +105,10 @@ this.sockWrite([conn], 'error', 'Invalid Host header');
 2018/09/01
 ####为啥npm i @vue/cli -g后，会有一个可执行的命令，换句话说，怎么样才能构建自己的类似vue-cli的脚手架工具？
 // TODO:
+
+2018/09/02  
+#####Q: webpack  assetsPublicPath
+
+<h3>2018/10/30</h3>
+<p>宏任务和微任务?</p>
+<p>A:目前的理解是js里面有两个任务队列,eventloop在取执行的任务时,微任务队列的优先级高于宏任务,会往微任务队列里面添加事件的有promise, jsdom事件.往宏任务队列里添加事件的有setTimeout, setInterval等</p>
