@@ -127,3 +127,6 @@ this.sockWrite([conn], 'error', 'Invalid Host header');
 <h3>2018/10/30</h3>
 <p>宏任务和微任务?</p>
 <p>A:目前的理解是js里面有两个任务队列,eventloop在取执行的任务时,微任务队列的优先级高于宏任务,会往微任务队列里面添加事件的有promise, jsdom事件.往宏任务队列里添加事件的有setTimeout, setInterval等</p>
+
+<h3>2018/11/05</h3>
+<p>Q: redux梳理</p>
