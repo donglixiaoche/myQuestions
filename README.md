@@ -130,3 +130,5 @@ this.sockWrite([conn], 'error', 'Invalid Host header');
 
 <h3>2018/11/05</h3>
 <p>Q: redux梳理</p>
+
+<h4>IDEA: 做一个关于NPM文档的命令行工具(中文版)，输出对应的package.json中的相关字段说明</h4>
