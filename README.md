@@ -132,3 +132,14 @@ this.sockWrite([conn], 'error', 'Invalid Host header');
 <p>Q: redux梳理</p>
 
 <h4>IDEA: 做一个关于NPM文档的命令行工具(中文版)，输出对应的package.json中的相关字段说明</h4>
+
+<h4>
+    label綁定元素時，如果要點擊label同樣觸發事件，需要元素需要設置ID（name可以不設置）
+</h4>
+<p>
+    e.g.
+    <code>
+        <label for="file">上傳文件</label>
+        <input type="file" id="file" name="file"/>
+    </code>
+</p>
